@@ -3,6 +3,8 @@
     <types>
         <members>AccountProcessor</members>
         <members>AccountProcessorTest</members>
+        <members>LeadProcessor</members>
+        <members>LeadProcessorTest</members>
         <name>ApexClass</name>
     </types>
     <version>42.0</version>
